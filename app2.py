@@ -16,8 +16,8 @@ st.markdown(
 )
 st.markdown(
     '''
-      -LinkedIn: (https://www.linkedin.com/in/peace-edward-5917b322a/)
-      -Github: (github.com/PeaceEdward)
+      -LinkedIn: (https://www.linkedin.com/in/peace-edward-5917b322a/) /n
+      -Github: (https://github.com/PeaceEdward)
     '''
 )
 st.subheader(":red[PEACE ODUOBUK EDWARD]")
