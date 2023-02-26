@@ -16,7 +16,7 @@ st.markdown(
 )
 st.markdown(
     '''
-      -LinkedIn: (https://www.linkedin.com/in/peace-edward-5917b322a/) /n
+      -LinkedIn: (https://www.linkedin.com/in/peace-edward-5917b322a/) \n
       -Github: (https://github.com/PeaceEdward)
     '''
 )
